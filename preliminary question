@@ -1,0 +1,3 @@
+#Q1a -- find the name and student ID of all students that have a higher total marks score than the student that has StudentID of V002
+
+SELECT 
